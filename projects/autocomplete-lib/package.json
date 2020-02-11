@@ -28,7 +28,7 @@
   },
   "homepage": "https://gmerabishvili.github.io/angular-ng-autocomplete/",
   "peerDependencies": {
-    "@angular/common": "*",
-    "@angular/core": "*"
+    "@angular/common": "9.0.0",
+    "@angular/core": "9.0.0"
   }
 }
